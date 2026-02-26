@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="30" fill="#b5451b"/>
+  
+  <!-- Shield shape -->
+  <path d="M32 12 L48 19 L48 34 C48 43 40 50 32 53 C24 50 16 43 16 34 L16 19 Z" fill="white" opacity="0.15"/>
+  <path d="M32 14 L46 20.5 L46 34 C46 42 39 48.5 32 51.5 C25 48.5 18 42 18 34 L18 20.5 Z" fill="white" opacity="0.9"/>
+  
+  <!-- Exclamation mark -->
+  <rect x="29.5" y="22" width="5" height="18" rx="2.5" fill="#b5451b"/>
+  <circle cx="32" cy="46" r="3" fill="#b5451b"/>
+</svg>
